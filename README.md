@@ -16,6 +16,7 @@ Manipulaçao de Arquivos Sequenciais e Indexados.
 
 O instrutor foi o Emanuel Costa,
 Psicólogo e Administrador de Empresas.
+Pela Udemy.
 
 # COBOL course
 
@@ -35,6 +36,7 @@ Handling Sequential and Indexed Files.
 
 The instructor was Emanuel Costa,
 Psychologist and Business Administrator.
+By Udemy.
 
 
 # Curso COBOL
@@ -55,3 +57,4 @@ Manejo de archivos secuenciales e indexados.
 
 El instructor fue Emanuel Costa,
 Psicóloga y Administradora de Empresas.
+Por Udemy.
